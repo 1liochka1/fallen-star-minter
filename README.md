@@ -1,4 +1,4 @@
-<h1 align="center">Holograph azure Minter&Bridger</h1>
+<h1 align="center">Holograph Fallen Star Minter&Bridger</h1>
 
 <h2>О боте</h2>
 Минтит новые нфт на https://app.holograph.xyz/</br>
